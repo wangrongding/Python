@@ -1,20 +1,4 @@
 
-# 欢迎关注我的微信公众号【智能制造社区】
-
-## 左手代码，右手制造，分享智能制造相关技术和业务，包括 Python, C#, 数据库，工业大数据、物联网技术及MES/ERP/SAP等系统。
-
-## 可以通过微信公众号加我好友
-
-![二维码](qrcode.jpg)
-
-# 内容列表
-
-## [Python微信公众号开发](https://github.com/injetlee/Python/tree/master/wechat)
-
-- ### Python 微信公众号开发—小白篇(一)
-
-- ### Python 公众号开发—颜值检测
-
 ## [Python 爬虫入门合集](https://github.com/injetlee/Python/tree/master/%E7%88%AC%E8%99%AB%E9%9B%86%E5%90%88)
 
 - ### Python 爬虫入门(一)——爬取糗事百科
